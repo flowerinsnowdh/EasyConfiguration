@@ -15,7 +15,7 @@
     <groupId>cc.carm.lib</groupId>
     <artifactId>easyconfiguration-parent</artifactId>
     <packaging>pom</packaging>
-    <version>4.0.2</version>
+    <version>4.0.4</version>
     <modules>
         <module>core</module>
         <module>features/section</module>
@@ -26,6 +26,7 @@
 
         <module>providers/yaml</module>
         <module>providers/gson</module>
+        <module>providers/night-config</module>
         <!--        <module>providers/hocon</module>-->
         <!--        <module>providers/sql</module>-->
         <!--        <module>providers/mongodb</module>-->
@@ -34,7 +35,7 @@
     </modules>
 
     <name>EasyConfiguration</name>
-    <description>轻松(做)配置，简单便捷的通用配置文件加载、读取与更新工具，可自定义配置格式。</description>
+    <description>A simple, easy-to-use and universal solution for managing configuration files.</description>
     <url>https://github.com/CarmJos/EasyConfiguration</url>
 
     <developers>
