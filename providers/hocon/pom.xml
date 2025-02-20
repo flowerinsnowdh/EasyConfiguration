@@ -34,9 +34,9 @@
         </dependency>
 
         <dependency>
-            <groupId>com.typesafe</groupId>
-            <artifactId>config</artifactId>
-            <version>1.4.3</version>
+            <groupId>com.electronwill.night-config</groupId>
+            <artifactId>hocon</artifactId>
+            <version>3.8.1</version>
             <scope>compile</scope>
         </dependency>
 
